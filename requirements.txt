@@ -1,0 +1,7 @@
+sentence-transformers
+transformers
+hnswlib
+pandas
+torch
+accelerate
+protobuf
